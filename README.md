@@ -11,7 +11,7 @@ The firsts 2-3 weeks I spent most of my time working with the owners of the agen
     1.2) Using the colours they been using the last 20 years and the logo they have
 2) organize what information they have and determine what needs to be used: (General knowledge of the company administration, HOW and with WHAT information they work. First things to consider when making the manager)
     2.1) Starting with a canvas blackboard with most of the information collected
-    2.1.1)![image](https://github.com/Test576M/property-managaner-and-web/assets/93354994/50fd7790-5390-4290-aaf0-f278c29cc1dc)
+    2.1.1)![image](https://github.com/Test576M/property-managaner-and-web/assets/93354994/9f44c010-e32b-457b-bc16-bb3b4accf8ff)
     2.2) Next I had to make a proper UML (with app.diagrams.net) before start making the BD in MySQL.
 3) Start doing prototypes on figma to show, discuse and choose what would be the bests options taking in consideration a proper ux/ui design, the company requeriments, the target audience and personal tips.
  
