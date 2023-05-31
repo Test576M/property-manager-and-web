@@ -18,3 +18,6 @@ The firsts 2-3 weeks I spent most of my time working with the owners of the agen
 After a week I finished a proper table with the most important information to have in the bd 
 ![image](https://github.com/Test576M/property-managaner-and-web/assets/93354994/5e50633e-3c0f-4743-92d2-390b880e60f1)
 while we talked over the main problems of the agency I had been organized the folders and photos into an intuitive model where they can easly find any thing they need without lookin for several minutes into desorganized folders. (I didn't finish yet, the main ssd has around 350gb of information) In the end of this process I will have to make something that can be used to search by name and type of fyle, still reasearching about that.. 
+
+UPDATE 
+I had to study through youtube "Google app scripts" model so I can make an easly and intuitive use for a google sheet that they want to use to take care about the KEYS and the OWNERS of the properties
