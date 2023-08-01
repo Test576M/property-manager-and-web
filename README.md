@@ -25,13 +25,13 @@ I had to study through youtube "Google app scripts" model so I can make an easly
 UPDATE
 After some weeks I finish the main table to control the data 
 The columns names are:
-![image](https://github.com/Test576M/property-managaner-and-web/assets/93354994/e4423f81-d1fa-4cc6-b475-c97473582a41)
-![image](https://github.com/Test576M/property-managaner-and-web/assets/93354994/28676b41-c349-444a-b7dc-180f0f62d43b)
-![image](https://github.com/Test576M/property-managaner-and-web/assets/93354994/9fc4cb06-b1bd-4fef-a773-31820a7ec8b4)
-![image](https://github.com/Test576M/property-managaner-and-web/assets/93354994/b945d13d-562a-4915-9ed4-25a912a506e3)
-![image](https://github.com/Test576M/property-managaner-and-web/assets/93354994/fb3ac02e-5f52-4533-9b61-9c9e295cdaec)
-![image](https://github.com/Test576M/property-managaner-and-web/assets/93354994/3e51f0b4-faf6-422d-8498-cd6e7e4a22ea)
-![image](https://github.com/Test576M/property-managaner-and-web/assets/93354994/46b7b45e-e95b-4549-ae08-1a9d62e5267f)
+![image](https://github.com/Test576M/property-managaner-and-web/assets/93354994/50e2094a-88c3-4e6d-9a53-ee880176b90b)
+![image](https://github.com/Test576M/property-managaner-and-web/assets/93354994/fb898043-3bc6-42b8-a603-71d3a95c5b4f)
+![image](https://github.com/Test576M/property-managaner-and-web/assets/93354994/5c1f785a-e5f8-4a59-875d-c3491556e0f0)
+![image](https://github.com/Test576M/property-managaner-and-web/assets/93354994/976721c7-6bef-43cc-b6f8-ebed9564d6a1)
+![image](https://github.com/Test576M/property-managaner-and-web/assets/93354994/40006ce3-dada-488b-b264-8944d310ff90)
+![image](https://github.com/Test576M/property-managaner-and-web/assets/93354994/0aa19f70-15be-41be-894e-e0f94e9664f3)
+![image](https://github.com/Test576M/property-managaner-and-web/assets/93354994/7ee33803-6c18-45b4-9984-cf3fe734cef6)
 
 I will upload the features as gifts or short videos.
 
