@@ -1,5 +1,14 @@
 # property-manager-and-web
 
+UPDATE 04th October. 
+Almost done the few last projects I started some weeks ago
+1) whatsapp-bot (with some IA .. why not?
+2) The UI for the DB with the scrapped data
+3) The 5) point from the 19th of August has passed through some troubles ...
+By the end of the month, these 3 points have to be completed so they can work properly
+
+----------------------------------------------------------------------
+
 UPDATE 19th August.
 What have I been doing the last few months? 
 I started working for two real state companies where I re-made every aspect of their daily life and job routine
